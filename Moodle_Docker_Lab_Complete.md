@@ -774,9 +774,10 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 6. Preview และยืนยัน
 
 **บันทึกผลการทดลอง 10:**
-```bash
- รูปหน้า ผลการ Upload Users
-```
+
+
+![Uploading image.png…]()
+
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
