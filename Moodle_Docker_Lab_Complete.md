@@ -690,7 +690,8 @@ Learning outcomes:
 **บันทึกผลการทดลอง 8:**
 
 
-![Uploading image.png…]()
+<img width="1912" height="1035" alt="image" src="https://github.com/user-attachments/assets/7e720df0-d77b-4092-baf7-4bfec15f54e6" />
+
 
 
 ---
