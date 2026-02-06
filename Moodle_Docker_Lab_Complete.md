@@ -688,9 +688,10 @@ Learning outcomes:
 4. คลิก **Save and display**
 
 **บันทึกผลการทดลอง 8:**
-```bash
- รูปหน้าผลลัพธ์การสร้างรายวิชา
-```
+
+
+![Uploading image.png…]()
+
 
 ---
 
